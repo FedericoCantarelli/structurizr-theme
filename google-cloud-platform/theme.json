@@ -1,0 +1,276 @@
+{
+    "name": "Google Cloud Platform",
+    "description": "Google Cloud Platform theme for C4 diagram",
+    "elements": [
+        {
+            "tag": "Category - Agents",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_agents.svg"
+        },
+        {
+            "tag": "Category - Security identity",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_security_identity.svg"
+        },
+        {
+            "tag": "Category - Business intelligence",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_business_intelligence.svg"
+        },
+        {
+            "tag": "Category - Observability",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_observability.svg"
+        },
+        {
+            "tag": "Category - Networking",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_networking.svg"
+        },
+        {
+            "tag": "Category - Compute",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_compute.svg"
+        },
+        {
+            "tag": "Category - Mixed reality",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_mixed_reality.svg"
+        },
+        {
+            "tag": "Category - Dev ops",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_dev_ops.svg"
+        },
+        {
+            "tag": "Category - Developer tools",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_developer_tools.svg"
+        },
+        {
+            "tag": "Category - Serverless computing",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_serverless_computing.svg"
+        },
+        {
+            "tag": "Category - Media services",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_media_services.svg"
+        },
+        {
+            "tag": "Category - Migration",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_migration.svg"
+        },
+        {
+            "tag": "Category - Maps geospatial",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_maps_geospatial.svg"
+        },
+        {
+            "tag": "Category - Management tools",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_management_tools.svg"
+        },
+        {
+            "tag": "Category - Collaboration",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_collaboration.svg"
+        },
+        {
+            "tag": "Category - Hybrid multicloud",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_hybrid_multicloud.svg"
+        },
+        {
+            "tag": "Category - Data analytics",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_data_analytics.svg"
+        },
+        {
+            "tag": "Category - Marketplace",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_marketplace.svg"
+        },
+        {
+            "tag": "Category - Web mobile",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_web_mobile.svg"
+        },
+        {
+            "tag": "Category - Web",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_web.svg"
+        },
+        {
+            "tag": "Category - Databases",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_databases.svg"
+        },
+        {
+            "tag": "Category - Storage",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_storage.svg"
+        },
+        {
+            "tag": "Category - Operations",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_operations.svg"
+        },
+        {
+            "tag": "Category - Ai machine learning",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_ai_machine_learning.svg"
+        },
+        {
+            "tag": "Category - Integration services",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_integration_services.svg"
+        },
+        {
+            "tag": "Category - Containers",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "category_containers.svg"
+        },
+        {
+            "tag": "Unique - Hyperdisk",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_hyperdisk.svg"
+        },
+        {
+            "tag": "Unique - Sec ops",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_sec_ops.svg"
+        },
+        {
+            "tag": "Unique - Compute engine",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_compute_engine.svg"
+        },
+        {
+            "tag": "Unique - Anthos",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_anthos.svg"
+        },
+        {
+            "tag": "Unique - Distributed cloud",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_distributed_cloud.svg"
+        },
+        {
+            "tag": "Unique - Vertex ai",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_vertex_ai.svg"
+        },
+        {
+            "tag": "Unique - Apigee",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_apigee.svg"
+        },
+        {
+            "tag": "Unique - Security command center",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_security_command_center.svg"
+        },
+        {
+            "tag": "Unique - Ai hypercomputer",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_ai_hypercomputer.svg"
+        },
+        {
+            "tag": "Unique - Cloud run",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_cloud_run.svg"
+        },
+        {
+            "tag": "Unique - Threat intelligence",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_threat_intelligence.svg"
+        },
+        {
+            "tag": "Unique - Cloud sql",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_cloud_sql.svg"
+        },
+        {
+            "tag": "Unique - Gke",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_gke.svg"
+        },
+        {
+            "tag": "Unique - Cloud spanner",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_cloud_spanner.svg"
+        },
+        {
+            "tag": "Unique - Mandiant",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_mandiant.svg"
+        },
+        {
+            "tag": "Unique - Big query",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_big_query.svg"
+        },
+        {
+            "tag": "Unique - Cloud storage",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_cloud_storage.svg"
+        },
+        {
+            "tag": "Unique - Alloy db",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_alloy_db.svg"
+        },
+        {
+            "tag": "Unique - Looker",
+            "stroke": "#232f3d",
+            "color": "#232f3d",
+            "icon": "unique_looker.svg"
+        }
+    ]
+}
